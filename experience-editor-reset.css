@@ -1,0 +1,8 @@
+.sc-breadcrumb-item-path {
+    box-sizing: content-box;
+    line-height: 100%;
+}
+
+.sc-breadcrumb-item-path img {
+    vertical-align: baseline;
+}
