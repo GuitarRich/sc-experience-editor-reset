@@ -1,8 +1,18 @@
-.sc-breadcrumb-item-path {
+.sc-breadcrumb-item-path
+{
+    font-style: inherit;
+    font-weight: inherit;
     box-sizing: content-box;
     line-height: 100%;
 }
 
-.sc-breadcrumb-item-path img {
+.sc-breadcrumb-item-path:hover
+{
+    text-decoration: none !important;
+}
+
+.sc-breadcrumb-item-path img
+{
+    display: inline-block;
     vertical-align: baseline;
 }
