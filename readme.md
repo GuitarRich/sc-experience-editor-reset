@@ -6,7 +6,7 @@ Save the css file into your assets folder. Then add the following to your layout
 
 ```csharp
 @if (Sitecore.Context.PageMode.IsPageEditor()) {
-    <link href="/assets-path/ee-reset-{framework}-{version}.css" rel="stylesheet" />
+    <link href="/assets-path/ee-reset-{version}.css" rel="stylesheet" />
 }
 ```
 
