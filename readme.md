@@ -10,4 +10,8 @@ Save the css file into your assets folder. Then add the following to your layout
 }
 ```
 
-Credits to [@jammykam](https://twitter.com/jammykam) & 
+As we find more issues that need resetting, they will be added to this repository.
+
+
+
+Credits to [@jammykam](https://twitter.com/jammykam) & @jrodsmitty for the Slack conversation that started this off and @jammykam for the initial CSS fixes!
