@@ -1,4 +1,6 @@
-.sc-breadcrumb-item-path
+.sc-breadcrumb-item-path,
+.sc_DropDownItemLink,
+.sc_DropDownItemLink_Disabled
 {
     font-style: inherit;
     font-weight: inherit;
@@ -7,11 +9,15 @@
 }
 
 .sc-breadcrumb-item-path:hover
+.sc_DropDownItemLink:hover,
+.sc_DropDownItemLink_Disabled:hover
 {
     text-decoration: none !important;
 }
 
 .sc-breadcrumb-item-path img
+.sc_DropDownItemLink img,
+.sc_DropDownItemLink_Disabled img
 {
     display: inline-block;
     vertical-align: baseline;
